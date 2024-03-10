@@ -1,4 +1,4 @@
-# Vue 3 + TypeScript + Vite + tindwcss 项目
+# Vue 3 + TypeScript + Vite + tailwindcss 项目
 
 1.前后端参考 gin-vue-admin 进行学习
 
